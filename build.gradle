@@ -11,6 +11,6 @@ plugins {
 
 jar {
   manifest {
-    attributes 'Main-Class': 'ics4ue.sooni.Battleship'
+    attributes 'Main-Class': 'ics4ue.sooni.Grid'
   }
 }
